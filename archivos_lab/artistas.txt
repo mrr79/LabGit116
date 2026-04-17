@@ -1,3 +1,7 @@
 Kanye West
 Michael Jackson   
+<<<<<<< HEAD
 Rosalia
+=======
+Bad Bunny
+>>>>>>> bbae3cd1d255d0f19ea847890163f380f352742a
